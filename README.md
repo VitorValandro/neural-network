@@ -48,4 +48,4 @@ Then open the jupyter notebook and run the cells. The main model is in the `neur
 - [Make Your Own Neural Network, by Tariq Rashid](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G)
 - [Yann LeCun's MNIST page](http://yann.lecun.com/exdb/mnist/)
 
-###### Vitor Matheus Valandro da Rosa. July 2024.
+###### Vitor Matheus Valandro da Rosa. August 2024.
